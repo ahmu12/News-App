@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+}
+
+.p{
+    padding: 0 5rem;
+}
+
+.clrBlack{
+    color: Black;
+}
